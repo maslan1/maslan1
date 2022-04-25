@@ -1,6 +1,6 @@
 <p align="center">  
 <!--<a href="https://github.com/maslan1/maslan1/network/members"><img src="https://img.shields.io/github/forks/maslan1/maslan1?color=00C4CE" alt="Forks Badge" height="20"/></a> -->
-<a href="https://github.com/abetr/abetr/network/members"><img src="https://img.shields.io/github/forks/abetr/abetr?color=00C4CE" alt="Forks Badge" height="20"/></a>
+<a href="https://github.com/maslan1/maslan1/network/members"><img src="https://img.shields.io/github/forks/maslan1/maslan1?color=00C4CE" alt="Forks Badge" height="20"/></a>
 <a href="https://github.com/maslan1/maslan1/pulls"><img src="https://img.shields.io/github/issues-pr/maslan1/maslan1?color=00C4CE" alt="Pull Requests Badge" height="20"/></a>
 <a href="https://github.com/maslan1/maslan1/issues"><img src="https://img.shields.io/github/issues/maslan1/maslan1?color=00C4CE" alt="Issues Badge" height="20"/></a>
 <a href="https://github.com/maslan1/maslan1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/maslan1/maslan1?color=00C4CE"></a>   
