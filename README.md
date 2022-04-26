@@ -1,59 +1,92 @@
-<p align="center">  
-<!--<a href="https://github.com/maslan1/maslan1/network/members"><img src="https://img.shields.io/github/forks/maslan1/maslan1?color=00C4CE" alt="Forks Badge" height="20"/></a> -->
-<a href="https://github.com/maslan1/maslan1/network/members"><img src="https://img.shields.io/github/forks/maslan1/maslan1?color=00C4CE" alt="Forks Badge" height="20"/></a>
-<a href="https://github.com/maslan1/maslan1/pulls"><img src="https://img.shields.io/github/issues-pr/maslan1/maslan1?color=00C4CE" alt="Pull Requests Badge" height="20"/></a>
-<a href="https://github.com/maslan1/maslan1/issues"><img src="https://img.shields.io/github/issues/maslan1/maslan1?color=00C4CE" alt="Issues Badge" height="20"/></a>
-<a href="https://github.com/maslan1/maslan1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/maslan1/maslan1?color=00C4CE"></a>   
+
+
+<!--
+**maslan1/maslan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+
+
+<h2> 👋   Hi there! I'm Mehmet Aslan...:wave: ✨ </h2>
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
+
+
+
+- 👀  - :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
+- 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+- 💞️  Slowly and steadily, I'm trying to be better than yesterday😉
+- 💬  Ask me about: Anything!
+- 📫  How to reach me: 
+
+## :man::woman: Social
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maslan1/)
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/maslan1)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:amazonmaslan@gmail.com)
+<a href="https://public.tableau.com/app/profile/yildiz3"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@yildiz3/)
+<a href="https://www.kaggle.com/maslan1"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Tableau" height="30"> </a>
+<a href="https://www.sololearn.com/profile/25572057"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maslan1" alt="maslan1" /> </p>
+
+
+## 💻 Data Visualization
+
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
+
+## 💻 Python Libraries
+
+<p>
+<a href="#" target="_blank"> <img src="https://i0.wp.com/www.ozgurozkok.com/wp-content/uploads/2019/12/numpy-python.png?fit=765%2C306&ssl=1" alt="numpy" width="150"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png" alt="scipy" width="100"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" alt="seaborn" width="90"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="Tensorflow" height="50" /> </a>
 </p>
 
-## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Mehmet Aslan is here. (Loading...)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maslan1/) 
-<a href="https://maslan1.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=maslan1" alt="visitor counter" width="15%"/>
-<!-- <p align="center">  </p> -->
+## 🧠 Languages
 
-### What I'm using ? 🛠
-
-I prefer Data Analyse  Tools.
-<br/>
-- 🌱 I’m addicted to learning and growing every day
-  
-- Python, Numpy, Pandas, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile  
-
-- 💬 Ask  me about anything that you want to learn via LinkedIn 
-
-<!-- -  You can reach me via Linkedin:  <a href="https://maslan1.github.io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a> -->
-
-
-## 🚴 Skills
 <p>
-<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="DevOps" width="100" height="48"/> </a>  -->
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"  height="48"/> </a> 
-<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"  height="48"/> </a> -->
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
-<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a> -->
-<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a> -->
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
-<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="numpy" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="numpy" height="48"/> </a>  
-  
-  </p>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="Python" width="150"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" height="60"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="70"/>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="60"/> </a> 
+<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle.png" alt="CSS" height="60"/> </a> 
+ </p>
 
 
-## 📊 Statistics
+## ⚙ Tools
+
+<p>
+<a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="Github" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual-studio" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" alt="bash" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jpyter" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="28"/> </a> 
+</p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=maslan1&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maslan1&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=maslan1&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maslan1&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maslan1&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
+<!---
+**maslan1/maslan1** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
